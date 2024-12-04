@@ -767,6 +767,7 @@ section,
   margin: 0;
   font-size: 64px;
   font-weight: 700;
+  font-display: swap;
 }
 
 .hero p {
