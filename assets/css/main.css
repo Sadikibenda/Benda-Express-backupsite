@@ -624,6 +624,10 @@ h6 {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+
+  #hero {
+    background-image: url(assets/img/hero-bg-mobile.webp);
+  }
 }
 
 /*--------------------------------------------------------------
