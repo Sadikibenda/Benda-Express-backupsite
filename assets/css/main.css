@@ -836,7 +836,8 @@ section,
 }
 
 .gallery .swiper-wrapper {
-  height: auto;
+  height: 180px;
+  width: 200px;
 }
 
 .gallery .swiper-pagination {
