@@ -943,16 +943,21 @@ section,
 .services-2 .img {
   border-radius: 8px;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 }
 
 .services-2 .img img {
   transition: 0.6s;
+  border-radius: 8px;
 }
 
 .services-2 .details {
   background: color-mix(in srgb, var(--surface-color), transparent 5%);
   padding: 50px 30px;
-  margin: -100px 30px 0 30px;
+  margin: -100px 40px 0 40px;
   transition: all ease-in-out 0.3s;
   position: relative;
   text-align: center;
