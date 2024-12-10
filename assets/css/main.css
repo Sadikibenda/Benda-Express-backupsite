@@ -628,6 +628,10 @@ h6 {
   #hero {
     background-image: url(assets/img/hero-bg-mobile.webp);
   }
+
+  #call-to-action {
+    background-image: url(assts/img/cta-bg-mobile.webp);
+  }
 }
 
 /*--------------------------------------------------------------
